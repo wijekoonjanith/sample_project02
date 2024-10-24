@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+
+
+h1{background-color:aqua; color:darkolivegreen; text-align:center;  font-family: "DynaPuff", system-ui;
+
+}
+
+    
+
+p{background-color:brown;color:blue}
+body{background-color: hotpink; background-image: url(IMAGES/IMG\ 02.jpg); 
+    background-position:center; background-size:cover; background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+#sampleID{
+    background-color: lime;
+    margin:100px;
+    padding:100px 200px 50px 20px;
+}
+
+.sampleclass{
+    background-color: aqua;
+    color: violet
+    
+    
+}
+
+.box01{
+    width:50px;
+    height:50px;
+    background-color: red;
+    position:sticky;
+    top:100px;
+    z-index:-1;
+}
+
+.box02{
+    width:100px;
+    height:100px;
+    background-color: rgb(0, 255, 136);
+    
+}
+
+
